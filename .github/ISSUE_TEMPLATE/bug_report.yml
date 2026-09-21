@@ -1,0 +1,48 @@
+name: Bug report
+description: Report a problem with the Energy Control Kit Fix
+title: "[Bug]: "
+body:
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft and Forge versions
+      placeholder: "Minecraft 1.12.2, Forge 14.23.5.2859"
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Mod versions
+      description: Include Energy Control, Energy Control Kit Fix, and Thermal Expansion when installed.
+      placeholder: "Energy Control 1.12.2-0.3.2; Kit Fix 1.0.3; Thermal Expansion 5.5.7"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe what you expected and what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log or crash report
+      description: Drag and drop latest.log or the crash report here, or provide a link.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I am using an unmodified Energy Control jar.
+          required: true
+        - label: I checked existing issues for the same problem.
+          required: true
