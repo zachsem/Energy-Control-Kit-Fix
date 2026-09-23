@@ -2,6 +2,14 @@
 
 **Energy Control Kit Fix** is a small unofficial compatibility patch for **Energy Control 1.12.2-0.3.2**.
 
+## Official download
+
+Installable releases are published on **CurseForge**:
+
+**[Download Energy Control Kit Fix on CurseForge](https://www.curseforge.com/minecraft/mc-mods/energy-control-kit-fix)**
+
+> **Important:** GitHub's **Code → Download ZIP** option downloads the project source code, not the installable mod. Download the release `.jar` from CurseForge and place that file in your `mods` folder.
+
 Energy Control's Thermal Expansion integration contains a broken Kit Assembler recipe. The upstream recipe points to the wrong Energy Control item instead of producing the intended Thermal Expansion kit. This project supplies a corrected recipe while leaving the original Energy Control jar untouched.
 
 ## What it fixes
@@ -37,8 +45,9 @@ No unrelated Energy Control recipes, machines, configuration options, or gamepla
 ## Installation
 
 1. Install Energy Control normally.
-2. Place the **Energy Control Kit Fix** jar in the same `mods` folder.
-3. Install it on both client and server.
+2. Download the **Energy Control Kit Fix** release `.jar` from CurseForge.
+3. Place the jar in the same `mods` folder.
+4. Install it on both client and server.
 
 Do not edit or replace the original Energy Control jar.
 
