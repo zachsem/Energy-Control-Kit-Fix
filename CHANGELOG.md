@@ -2,8 +2,7 @@
 
 ## 1.0.3
 
-- Public author metadata normalized to lowercase `zachsem`.
-- Recipe behavior is unchanged from 1.0.2.
+- No user-facing changes.
 
 ## 1.0.2
 
