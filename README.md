@@ -35,7 +35,7 @@ No unrelated Energy Control recipes, machines, configuration options, or gamepla
 **Required**
 
 - Minecraft 1.12.2
-- Forge 14.23.5.2859
+- Forge for Minecraft 1.12.2 — tested with 14.23.5.2859
 - Energy Control 1.12.2-0.3.2
 
 **Optional integration**
@@ -74,7 +74,7 @@ This project is intentionally narrow. It fixes the broken Thermal Expansion Kit 
 
 ## Credits
 
-- **Energy Control** — Zuxelus and contributors
+- **Energy Control** — based on the Nuclear Control lineage; 1.12-era metadata credits **Shedar, xbony2, Zuxelus, and DMF444**
 - **Thermal Expansion** — its respective authors and contributors
 - **Energy Control Kit Fix** — zachsem
 
