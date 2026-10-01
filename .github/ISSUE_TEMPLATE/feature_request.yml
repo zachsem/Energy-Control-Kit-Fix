@@ -1,6 +1,9 @@
 name: Feature request
 description: Suggest an improvement that fits the scope of Energy Control Kit Fix
-title: "[Feature]: "
+title: "[Request]: "
+labels:
+  - "type: enhancement"
+  - "status: needs triage"
 body:
   - type: textarea
     id: feature
