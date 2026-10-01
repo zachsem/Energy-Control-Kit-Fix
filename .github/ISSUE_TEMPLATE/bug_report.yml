@@ -1,6 +1,9 @@
 name: Bug report
 description: Report a problem with the Energy Control Kit Fix
 title: "[Bug]: "
+labels:
+  - "type: bug"
+  - "status: needs triage"
 body:
   - type: input
     id: minecraft
