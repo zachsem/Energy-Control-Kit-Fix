@@ -53,7 +53,7 @@ Do not edit or replace the original Energy Control jar.
 
 ## Reporting bugs
 
-Please use the GitHub **Issues** tab and include:
+Please use [GitHub Issues](https://github.com/zachsem/Energy-Control-Kit-Fix/issues) and include:
 
 - Minecraft and Forge versions
 - Energy Control version
